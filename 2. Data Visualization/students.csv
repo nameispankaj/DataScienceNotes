@@ -1,0 +1,101 @@
+Name,Age,Gender,City,Major,GPA
+Arya Agarwal,24,Male,Pune,Arts,2.65
+Aanya Chopra,21,Male,Bhopal,Computer Science,3.18
+Aarav Chopra,21,Female,Surat,Arts,3.21
+Aarav Gupta,22,Male,Visakhapatnam,Arts,3.04
+Ishaan Agarwal,18,Female,Mumbai,Science,3.91
+Zara Malik,20,Male,Kanpur,Business,4.0
+Advik Jain,21,Male,Thane,Arts,3.82
+Arjun Singh,18,Female,Hyderabad,Arts,3.12
+Vihaan Gupta,20,Male,Bhopal,Business,2.95
+Arya Malik,22,Female,Visakhapatnam,Computer Science,3.2
+Aanya Das,18,Male,Lucknow,Engineering,2.13
+Riya Jain,20,Male,Jaipur,Science,3.36
+Rishi Singh,18,Female,Hyderabad,Business,2.27
+Zara Jain,22,Male,Thane,Arts,3.14
+Advik Verma,21,Female,Pimpri-Chinchwad,Business,2.68
+Riya Das,19,Female,Pune,Computer Science,2.91
+Ishaan Agarwal,20,Male,Hyderabad,Arts,2.71
+Avni Patel,22,Male,Vadodara,Engineering,2.81
+Advik Gupta,21,Female,Vadodara,Science,2.67
+Arya Agarwal,25,Female,Nagpur,Engineering,3.9
+Rishi Malik,25,Male,Pune,Engineering,3.75
+Zara Malik,18,Female,Ahmedabad,Science,3.18
+Kavya Sharma,19,Female,Ahmedabad,Arts,3.35
+Kavya Singh,21,Female,Surat,Computer Science,2.94
+Ishaan Das,25,Male,Bhopal,Science,2.73
+Esha Singh,23,Female,Nagpur,Engineering,2.5
+Ishaan Gupta,20,Male,Delhi,Engineering,2.03
+Atharva Patel,21,Female,Indore,Science,3.4
+Ishaan Verma,24,Female,Ahmedabad,Arts,2.33
+Atharva Sharma,20,Male,Patna,Arts,2.9
+Zara Das,24,Male,Chennai,Science,3.07
+Arya Singh,18,Female,Mumbai,Engineering,3.84
+Rishi Patel,25,Female,Lucknow,Science,3.57
+Atharva Malik,19,Female,Chennai,Science,3.52
+Avni Singh,23,Male,Thane,Computer Science,2.39
+Aanya Gupta,23,Male,Patna,Computer Science,2.05
+Saarvi Chopra,25,Female,Lucknow,Engineering,2.67
+Anaya Singh,22,Male,Ahmedabad,Business,2.5
+Kavya Agarwal,23,Female,Pimpri-Chinchwad,Science,3.64
+Zara Sharma,19,Female,Jaipur,Engineering,2.44
+Riya Verma,20,Male,Bhopal,Science,3.3
+Vihaan Jain,25,Male,Ahmedabad,Science,3.09
+Aanya Sharma,23,Male,Delhi,Science,2.0
+Atharva Gupta,21,Female,Lucknow,Arts,2.45
+Arya Jain,25,Female,Thane,Science,3.1
+Aanya Malik,21,Female,Chennai,Arts,3.1
+Dev Sharma,18,Female,Nagpur,Arts,3.25
+Saarvi Agarwal,20,Male,Delhi,Business,2.1
+Aarav Agarwal,22,Female,Vadodara,Science,3.61
+Kavya Chopra,22,Female,Patna,Computer Science,2.33
+Vihaan Chopra,25,Male,Nagpur,Science,3.62
+Ishaan Malik,18,Female,Pune,Engineering,2.99
+Ayush Verma,21,Male,Surat,Business,2.55
+Ishaan Singh,19,Female,Chennai,Engineering,2.48
+Vihaan Malik,24,Male,Surat,Science,2.08
+Avni Singh,20,Male,Surat,Computer Science,2.33
+Atharva Gupta,18,Female,Hyderabad,Science,2.06
+Rishi Jain,20,Female,Chennai,Science,3.93
+Bhavya Singh,23,Female,Delhi,Arts,3.12
+Arya Agarwal,20,Female,Jaipur,Business,2.11
+Saarvi Das,18,Male,Kanpur,Science,2.56
+Aanya Gupta,21,Female,Jaipur,Business,3.64
+Anaya Patel,22,Female,Bhopal,Computer Science,3.05
+Arjun Jain,23,Female,Visakhapatnam,Business,3.97
+Zara Malik,19,Female,Kanpur,Business,2.66
+Bhavya Agarwal,24,Female,Ahmedabad,Computer Science,2.53
+Ayush Chopra,18,Female,Patna,Business,3.03
+Avni Patel,23,Male,Kolkata,Arts,2.8
+Aanya Gupta,19,Male,Kolkata,Computer Science,2.17
+Rishi Agarwal,24,Male,Indore,Arts,2.02
+Arya Das,18,Female,Pimpri-Chinchwad,Computer Science,2.27
+Esha Agarwal,18,Male,Vadodara,Science,2.48
+Vihaan Singh,22,Female,Bangalore,Arts,2.29
+Esha Gupta,24,Male,Hyderabad,Engineering,3.69
+Avni Das,25,Male,Chennai,Arts,2.7
+Rishi Gupta,20,Female,Delhi,Science,3.85
+Bhavya Gupta,19,Female,Pimpri-Chinchwad,Engineering,2.42
+Rishi Das,22,Male,Indore,Computer Science,3.35
+Dev Das,25,Female,Indore,Computer Science,2.9
+Aarav Chopra,22,Male,Indore,Science,3.96
+Kavya Patel,21,Female,Chennai,Business,2.55
+Rishi Patel,21,Female,Bhopal,Business,3.2
+Bhavya Verma,19,Female,Hyderabad,Arts,2.2
+Dev Patel,18,Female,Nagpur,Computer Science,2.32
+Advik Jain,24,Female,Visakhapatnam,Computer Science,3.14
+Bhavya Agarwal,25,Female,Bhopal,Computer Science,2.13
+Zara Agarwal,18,Female,Bangalore,Business,2.16
+Dev Agarwal,21,Male,Patna,Computer Science,3.89
+Zara Patel,22,Male,Bangalore,Arts,2.15
+Kavya Verma,25,Male,Hyderabad,Computer Science,2.08
+Advik Jain,24,Female,Jaipur,Engineering,2.62
+Kavya Patel,19,Female,Delhi,Arts,3.97
+Bhavya Singh,20,Male,Lucknow,Business,2.13
+Arya Malik,23,Male,Jaipur,Arts,3.06
+Rishi Chopra,20,Female,Hyderabad,Arts,3.22
+Dev Das,18,Male,Patna,Computer Science,3.26
+Esha Malik,18,Female,Hyderabad,Arts,2.41
+Dev Sharma,25,Female,Hyderabad,Business,2.45
+Vihaan Patel,23,Male,Jaipur,Science,2.62
+Arjun Singh,18,Female,Nagpur,Arts,2.19
